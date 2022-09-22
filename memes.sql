@@ -3,3 +3,5 @@ OFFSET 0 LIMIT 10
 
 INSERT INTO users (1, nazwa, haslo)
 VALUE (1, Adam, Adam123)
+
+hejo
